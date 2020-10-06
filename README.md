@@ -4,8 +4,10 @@ _I need to keep my priorities staight, also I need to know my WHY! My why moving
 Never stop learning and creating._ Also when my wife and I retire we would love to move to Disneyland and become ticket takers.
 <https://disneyparks.disney.go.com/>
 My Priority list.
--FAITH
--Family
--WORK
--Recreational activies
+1.FAITH
+2.Family
+3.WORK
+4.Recreational activies
+
+
 
