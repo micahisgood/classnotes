@@ -1,0 +1,48 @@
+body
+{background-color: red }
+
+header{background-color: dimgray;
+text-align: center;
+}
+
+Li {
+    boarders: solid red ipx;
+    display: inline-block;
+    padding: 15px;
+    margin: 8px 35px ;
+    
+}
+
+<!DOCTYPE HTML>
+<html>
+   <head>
+      <title> Micahs Auto Service</title>
+      <link rel="stylesheet" href="style.css" type="text/css">
+   </head>
+   <body>
+   <header>
+      <h1> Service</h1>
+      <nav>
+         <ul>
+            <li> Home</li>
+            <li> Book</li>
+            <li> Services</li>
+            <li> About</li>
+   </header> 
+   <main>
+      <section>
+         <p>The mechanics body throttled the 4WD hooklift body because the 2x4, steel ProMaster 2500 demolished! The lift kit throttled the lifted bio-fuel! Once the Transit 350 HD developed the diesel engine. The ute totaled the shock-resistant welder body while the step van upfitted the tough diesel engine. The heavy duty, 4WD refrigerated body developed.
+
+         </p>
+         <p> Our team is commited to making your vehicle perform and maintain it just like you bought it yesterday.</p>
+      </section>
+      <section>
+         <img src="https://s.aolcdn.com/commerce/autodata/images/USC60TOS072F021001.jpg" 150x150>
+         <p> Just like you trusted your own father to make your car work again, We promise to do the same!</p>
+      </section>
+   </main>
+   <footer>
+
+   </footer>
+   </body>
+</html> 
